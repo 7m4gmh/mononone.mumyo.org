@@ -18,6 +18,7 @@ monononeは、音楽コレクティブ『[mumyo](https://mumyo.org/)  』の姉�
 - **ウェブサイト:** [https://mononone.mumyo.org/](https://mononone.mumyo.org/)  
 - **連絡先:** 梅本聖 (hijiri@mumyo.org)
 
+![オフィシャルサイト](/mononone-qr-code.png "mononone official site")
 
 ## mononone, inc. (general incorporated association)
 **Established:** July 1, 2024
