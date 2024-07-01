@@ -1,39 +1,33 @@
 ---
 layout: page
-title:
-permalink: /ja/about/
+title: about
+permalink: /about/
 ---
 
-&nbsp;
+## 一般社団法人mononone
+設立：2024年7月1日
+
+一般社団法人monononeは、音楽家の活動を助成し、現代音楽ファンのための会員制クラブを運営する非営利法人です。新しい音楽の体験を提供することをミッションとし、音楽家自らが運営することで、より深い音楽的交流を実現しています。
+
+monononeは、音楽コレクティブ『[mumyo](https://mumyo.org/)  』の姉妹団体であり、両団体の名付け親は世界的に著名な音楽家、坂本龍一氏です。
+当団体の役員は、日本だけでなく世界で活躍する梅本佑利（作曲家・代表理事）、山根亜季子（作曲家）、成田達輝（ヴァイオリニスト）などが務めています。
+
+2024年9月には、愛知県長久手市で行われる公演「mumyo - euphoria」に最初の制作費助成を行う予定です。新しい音楽に興味のある日本の音楽ファンに向けて、多様な音楽体験を提供し続けます。
+
+- **mononone会員クラブ:** [https://fanclove.jp/club/mononone](https://fanclove.jp/club/mononone) 
+- **ウェブサイト:** [https://mononone.mumyo.org/](https://mononone.mumyo.org/)  
+- **連絡先:** 梅本聖 (hijiri@mumyo.org)
 
 
-[ENG](https://mumyo.org/about/)/日本語
+## mononone, inc. (general incorporated association)
+**Established:** July 1, 2024
 
-mumyo（ムミョウ）は、作曲家の[山根明季子](/ja/artists#山根明季子)、[梅本佑利](/ja/artists#梅本佑利)、ヴァイオリニストの[成田達輝](/ja/artists#成田達輝)からなる、現代音楽のアーティストコレクティブ、芸術商社です。
+mononone inc. is a nonprofit organization that supports the activities of musicians and operates a membership club for contemporary music fans. With a mission to provide new musical experiences, mononone is managed by musicians themselves, facilitating deeper musical interactions.
 
-「mumyo」は、音楽家の[坂本龍一](http://www.sitesakamoto.com/biography)氏による命名で、枕草子に登場する一条天皇の琵琶の故事（三巻本89段）に基づきます。
+mononone is the sister organization of the music collective "[mumyo](https://mumyo.org/)," both named by the world-renowned musician Ryuichi Sakamoto.  Our board members include internationally active musicians such as Yuri Umemoto (composer and representative director), Akiko Yamane (composer), and Tatsuki Narita (violinist).
 
-&nbsp;
+In September 2024, we will make our first grant to the performance "mumyo - euphoria" in Nagakute City, Aichi Prefecture.  We continue to offer diverse musical experiences to music fans in Japan who are interested in new music.
 
-無名といふ琵琶の御琴を上の持てわたらせたまへるに　見などして掻き鳴らしなどすと言へば　弾くにはあらで緒などを手まさぐりにして これが名よいかにとかと聞えさするに　ただいとはかなく名もなしと　のたまはせたるは　なほいとめでたしとこそ覚えしか
-
-<a title="See page for author, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Pillow_Book_illustrated6.JPG"><img width="512" alt="Pillow Book illustrated6" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pillow_Book_illustrated6.JPG/512px-Pillow_Book_illustrated6.JPG"></a><BR /> (出典：枕草子絵巻)
-<BR /><BR />
-
-&nbsp;
-
-#### 合同会社無名
-商号: 合同会社無名 / mumyo llc  
-本店所在地: 東京都千代田区九段南1-5-6りそな九段ビル5階  
-電子メール: q (アットマーク) mumyo.org  
-法人番号: [3010003039024](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=3010003039024)  
-設立: 2022年(令和4年)11月7日  
-
-#### 業務の概要
-当社は、コンサートの主催及び音楽に関する知的財産権の管理を行う。
-
-#### 役員
-業務執行社員　[山根明季子（作曲家）](https://akikoyamane.com)  
-業務執行社員、代表社員　[梅本佑利（作曲家）](https://www.yuriumemoto.com)  
-業務執行社員、代表社員　[梅本合同会社](https://home.umemoto.org) 職務執行者  梅本聖（バックオフィス業務）
-
+- **mononone member's club:** [https://fanclove.jp/club/mononone](https://fanclove.jp/club/mononone)
+- **Website:** [https://mononone.mumyo.org/](https://mononone.mumyo.org/)  
+- **Contact:** Hijiri Umemoto (hijiri@mumyo.org)
