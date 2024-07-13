@@ -4,7 +4,7 @@ name: mononome inc.
 email: q@mumyo.org
 description: >- # this means to ignore newlines until "baseurl:"
  一般社団法人mononone (もののね) \\ 
- mononone inc., a nonprofit incorporated association, founded by members of mumyo; named by Ryuichi Sakamoto.
+ mononone inc., a nonprofit incorporated association, founded by members of mumyo.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mononone.mumyo.org" 
 ###twitter_username: jekyllrb
