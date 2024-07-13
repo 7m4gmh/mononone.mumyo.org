@@ -18,7 +18,9 @@ timezone: Asia/Tokyo
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-paginate
+##  - jekyll-feed
 
 minima:
 #  date_format: "%b %-d, %Y"
