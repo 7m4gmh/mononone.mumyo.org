@@ -32,3 +32,12 @@ In September 2024, we will make our first grant to the performance "mumyo - euph
 - **mononone member's club:** [https://fanclove.jp/club/mononone](https://fanclove.jp/club/mononone)
 - **Website:** [https://mononone.mumyo.org/](https://mononone.mumyo.org/)  
 - **Contact:** Hijiri Umemoto (hijiri@mumyo.org)
+
+## 法人概要
+<B>名称</B> 　一般社団法人mononone  
+<B>法人番号</B>  1010005038496  
+<B>主たる事務所の所在地</B> 　東京都千代田区神田須田町１丁目７番８号ＶＯＲＴ秋葉原ＩＶ・２階  
+<B>設立</B>  　2024年7月1日  
+<B>役員</B>  　代表理事・梅本佑利ほか  
+<B>目的等</B> 　音楽家の創作及び演奏活動を支援する事業を行い、音楽文化の進行を図ることを目的とする。
+
